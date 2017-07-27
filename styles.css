@@ -1,0 +1,31 @@
+html {
+  padding: 0px;
+  margin: 0px auto;
+  width: 100%;
+}
+body {
+  background-color: #d9d9db;
+  margin: 0px auto;
+  padding: 0px;
+  width: 100%;
+}
+img {
+  width: 90%;
+  height: 250px;
+  margin: 0px 5% 0px 5%;
+  border: 4px groove grey;
+}
+#result {
+  font-size: 1.75em;
+  font-weight: bold;
+  width: 60%;
+  margin: 0px auto;
+}
+div {
+  margin: 0px auto;
+  width: 100%;
+  text-align: center;
+}
+h1 {
+  margin-left: 25px;
+}
